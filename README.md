@@ -29,9 +29,6 @@ docker run -d -p 8123:8123 -p 9000:9000 -e CLICKHOUSE_PASSWORD={YOUR_PASSWORD} -
 pip install clickhouse_connect
 ```
 
-## Installation
-
-
 ### Options:
 
 - `--host`: ClickHouse host (default: localhost)
